@@ -50,8 +50,8 @@ s.source = { :git => "http://stash.qumu.com/scm/mob/ios-sdk.git", :branch=> "fea
 
 #s.framework = "XCTest"
 
-s.dependency 'Alamofire' , '3.5.0'
-s.dependency 'AlamofireObjectMapper' , '3.0.2'
+s.dependency 'Alamofire' , '4.2.0'
+s.dependency 'AlamofireObjectMapper' , '4.0.1'
 
 # 8
 s.source_files =  "**/*.{swift}"
